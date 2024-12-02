@@ -1,12 +1,6 @@
 ## Hi there!🌿
 
-I'm a 27-year-old coding enthusiast diving headfirst into the world of programming.✨
-
-I recently started this journey to challenge myself, learn new skills and explore the exciting possibilities of tech.🪐
-
-🚀 **Goals:**
-- master the basics of coding
-- transition into a tech role someday
+I'm a 27-year-old coding enthusiast diving headfirst into the world of programming.✨ I recently started this journey to challenge myself, learn new skills and explore the exciting possibilities of tech.🪐
 
 🌞 **Fun facts:**
 - i'm actually working in healthcare
