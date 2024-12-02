@@ -1,6 +1,6 @@
 ## Hi there!🌿
 
-I'm a 27-year-old coding enthusiast diving headfirst into the world of programming.✨ I recently started this journey to challenge myself, learn new skills and explore the exciting possibilities of tech.🪐
+I'm a 27-year-old coding enthusiast diving headfirst into the world of programming. I recently started this journey to challenge myself, learn new skills and explore the exciting possibilities of tech.✨
 
 🌞 **Fun facts:**
 - i'm actually working in healthcare
@@ -9,7 +9,7 @@ I'm a 27-year-old coding enthusiast diving headfirst into the world of programmi
 
 
 ##
-Thanks for stopping by!🐣
+Thanks for stopping by!🐉
 
 <!--
 **ayxcodes/ayxcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
