@@ -3,7 +3,7 @@
 I'm a 27-year-old coding enthusiast diving headfirst into the world of programming. I recently started this journey to challenge myself, learn new skills and explore the exciting possibilities of tech.✨
 
 🌞 **Fun facts:**
-- i'm actually working in healthcare
+- i actually work in healthcare
 - i like lifting heavy circles
 - dragonball is my favorite anime
 
